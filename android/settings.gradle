@@ -1,0 +1,3 @@
+rootProject.name = 'hey'
+
+include ':app', ':hey', ':hey-sources'
